@@ -34,9 +34,14 @@
 
 ---
 
-## 5. [**MIT OpenCourseWare (OCW) — Philosophy**](https://ocw.mit.edu/search/ocwsearch.htm?q=philosophy)
+## 5. [**Problems of Philosophy — MIT OpenCourseWare (OCW)**](https://ocw.mit.edu/courses/24-00-problems-of-philosophy-fall-2019/)
 **Platform**: MIT OCW  
-**Focus**: Variety — metaphysics, philosophy of mind, ethics, logic.  
-**Format**: Lecture notes, problem sets, exams (some with video/audio archives).
+**Focus**: Core philosophical issues—ethics, metaphysics, epistemology, logic.  
+**Format**: Comprehensive materials — syllabus, lecture notes, readings, assignments, plus PDF downloads.
+
+**Course highlights**:
+- Systematic introduction to perennial philosophical problems :contentReference[oaicite:1]{index=1}  
+- Extensive lecture handouts on topics like free will, moral responsibility, personal identity :contentReference[oaicite:2]{index=2}  
+- Full downloadable course package for offline study :contentReference[oaicite:3]{index=3}
 
 ---
