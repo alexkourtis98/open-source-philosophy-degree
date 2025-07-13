@@ -1,3 +1,7 @@
+# 📚 Free Philosophy Courses
+
+See the curated list of top free philosophy courses in [extras/courses.md](./extras/courses.md).
+
 # Open Source Philosophy Degree
 
 Welcome to the Open Source Philosophy Degree project!  
