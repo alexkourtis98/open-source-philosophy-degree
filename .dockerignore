@@ -1,0 +1,35 @@
+# Git files
+.git
+.gitignore
+
+# Jekyll build output
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Dependencies
+node_modules
+vendor
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local

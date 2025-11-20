@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Course Catalog"
-permalink: /catalog/
+permalink: /course-catalog/
 ---
 
 # 🎓 Philosophy Course Catalog
@@ -9,50 +9,50 @@ permalink: /catalog/
 Welcome to our comprehensive catalog of free philosophy courses! Browse by category, difficulty level, or use the search feature to find the perfect course for your learning journey.
 
 <div class="catalog-controls">
-  <div class="search-box">
-    <input type="text" id="courseSearch" placeholder="Search courses by title, instructor, or topic..." />
-  </div>
+      <div class="search-box">
+        <input type="text" id="courseSearch" placeholder="Search courses by title, instructor, or topic..." />
+      </div>
 
-  <div class="filter-controls">
-    <label>
-      <strong>Difficulty:</strong>
-      <select id="difficultyFilter">
-        <option value="all">All Levels</option>
-        <option value="beginner">Beginner</option>
-        <option value="intermediate">Intermediate</option>
-        <option value="advanced">Advanced</option>
-      </select>
-    </label>
+      <div class="filter-controls">
+        <label>
+          <strong>Difficulty:</strong>
+          <select id="difficultyFilter">
+            <option value="all">All Levels</option>
+            <option value="beginner">Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+          </select>
+        </label>
 
-    <label>
-      <strong>Category:</strong>
-      <select id="categoryFilter">
-        <option value="all">All Categories</option>
-        <option value="ethics">Ethics & Moral Philosophy</option>
-        <option value="logic">Logic & Critical Thinking</option>
-        <option value="metaphysics">Metaphysics & Epistemology</option>
-        <option value="political">Political Philosophy</option>
-        <option value="history">History of Philosophy</option>
-        <option value="mind">Philosophy of Mind & Science</option>
-        <option value="general">General/Introductory</option>
-      </select>
-    </label>
+        <label>
+          <strong>Category:</strong>
+          <select id="categoryFilter">
+            <option value="all">All Categories</option>
+            <option value="ethics">Ethics & Moral Philosophy</option>
+            <option value="logic">Logic & Critical Thinking</option>
+            <option value="metaphysics">Metaphysics & Epistemology</option>
+            <option value="political">Political Philosophy</option>
+            <option value="history">History of Philosophy</option>
+            <option value="mind">Philosophy of Mind & Science</option>
+            <option value="general">General/Introductory</option>
+          </select>
+        </label>
 
-    <label>
-      <strong>Platform:</strong>
-      <select id="platformFilter">
-        <option value="all">All Platforms</option>
-        <option value="edx">edX</option>
-        <option value="coursera">Coursera</option>
-        <option value="yale">Open Yale</option>
-        <option value="mit">MIT OCW</option>
-        <option value="stanford">Stanford</option>
-        <option value="hillsdale">Hillsdale</option>
-        <option value="other">Other</option>
-      </select>
-    </label>
-  </div>
-</div>
+        <label>
+          <strong>Platform:</strong>
+          <select id="platformFilter">
+            <option value="all">All Platforms</option>
+            <option value="edx">edX</option>
+            <option value="coursera">Coursera</option>
+            <option value="yale">Open Yale</option>
+            <option value="mit">MIT OCW</option>
+            <option value="stanford">Stanford</option>
+            <option value="hillsdale">Hillsdale</option>
+            <option value="other">Other</option>
+          </select>
+        </label>
+      </div>
+    </div>
 
 <div id="courseCount" class="course-count"></div>
 

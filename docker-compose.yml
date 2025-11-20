@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    build: .
+    container_name: philosophy-degree-site
+    ports:
+      - "4001:4001"
+      - "35729:35729"  # LiveReload port
+    environment:
+      - JEKYLL_ENV=development
