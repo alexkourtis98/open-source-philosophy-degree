@@ -1,3 +1,27 @@
+<!-- Favicons -->
 <link rel="icon" type="image/png" href="/images/favicon-96x96.png" sizes="96x96" />
 <link rel="icon" type="image/svg+xml" href="/images/favicon.svg" />
 <link rel="shortcut icon" href="/images/favicon.ico" />
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="{{ page.description | default: site.description | default: 'Free, accessible, and high-quality philosophy courses from top universities. Curated open educational resources for self-guided philosophical study.' }}" />
+<meta name="keywords" content="philosophy courses, free philosophy, open source education, philosophy degree, ethics, logic, metaphysics, epistemology, political philosophy, online learning, MIT OCW, edX, Coursera, Yale courses" />
+<meta name="author" content="{{ site.author | default: 'Open Source Philosophy Degree Community' }}" />
+
+<!-- Open Graph Meta Tags for Social Sharing -->
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:description" content="{{ page.description | default: site.description | default: 'Free philosophy education with curated courses from Harvard, MIT, Yale, Stanford and more.' }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:locale" content="en_US" />
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta name="twitter:description" content="{{ page.description | default: site.description | default: 'Free philosophy education from top universities' }}" />
+
+<!-- Additional SEO -->
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link rel="canonical" href="{{ page.url | absolute_url }}" />

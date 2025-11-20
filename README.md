@@ -1,6 +1,9 @@
 # 📚 Free Philosophy Courses
 
-See the curated list of top free philosophy courses in [extras/courses.md](./extras/courses.md).
+Browse our comprehensive searchable catalog with 20+ free philosophy courses:
+
+- **[Full Course Catalog](/catalog/)** - Complete searchable catalog with filters
+- **[Top 5 Courses](/courses/)** - Quick recommendations to get started
 
 # Open Source Philosophy Degree
 
@@ -15,9 +18,11 @@ This initiative aims to provide free, accessible, and high-quality resources for
 
 ## How to Use
 
-1. Explore the recommended reading lists and courses.
-2. Join discussions and contribute your insights.
-3. Suggest new resources or improvements.
+1. **Browse Courses**: Explore the [Course Catalog](/catalog/) - filter by difficulty, category, or platform
+2. **Get Help**: Check out our [Help Guide](/help/) and [FAQ](/faq/)
+3. **Plan Your Study**: Review [Curricular Guidelines](/curricular-guidelines/) for suggested learning paths
+4. **Read Philosophy**: Explore our [Reading List](/readings/) for books and primary sources
+5. **Join & Contribute**: Share insights and suggest improvements
 
 ## Contributing
 

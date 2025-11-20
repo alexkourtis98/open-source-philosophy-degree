@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Top 5 Philosophy Courses"
+permalink: /courses/
+---
+
 # 📚 Top 5 Free Philosophy Courses
 
 ---
@@ -40,8 +46,8 @@
 **Format**: Comprehensive materials — syllabus, lecture notes, readings, assignments, plus PDF downloads.
 
 **Course highlights**:
-- Systematic introduction to perennial philosophical problems :contentReference[oaicite:1]{index=1}  
-- Extensive lecture handouts on topics like free will, moral responsibility, personal identity :contentReference[oaicite:2]{index=2}  
-- Full downloadable course package for offline study :contentReference[oaicite:3]{index=3}
+- Systematic introduction to perennial philosophical problems
+- Extensive lecture handouts on topics like free will, moral responsibility, personal identity
+- Full downloadable course package for offline study
 
 ---

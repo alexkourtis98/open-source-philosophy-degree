@@ -1,0 +1,64 @@
+# Site Settings
+title: Open Source Philosophy Degree
+description: >-
+  Free, accessible, and high-quality resources for anyone interested in studying philosophy.
+  Curated open educational materials structured into a self-guided curriculum.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - README.md
+  - extras/courses.md
+  - extras/course-catalog.md
+  - extras/readings.md
+  - extras/other_curricula.md
+  - CONTRIBUTING.md
+  - FAQ.md
+
+# Site metadata
+author: Open Source Philosophy Degree Community
+email: ""
+github_username: alexkourtis98
+repository: alexkourtis98/open-source-philosophy-degree
+
+# Social links (optional)
+social_links:
+  github: alexkourtis98/open-source-philosophy-degree
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CHANGELOG.md
+
+# Collections (for future use)
+collections:
+  courses:
+    output: true
+    permalink: /courses/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
