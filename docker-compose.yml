@@ -3,7 +3,7 @@ services:
     build: .
     container_name: philosophy-degree-site
     ports:
-      - "4001:4001"
+      - "8342:8342"
       - "35729:35729"  # LiveReload port
     environment:
       - JEKYLL_ENV=development

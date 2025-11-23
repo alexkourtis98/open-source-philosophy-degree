@@ -60,7 +60,10 @@ document.addEventListener('DOMContentLoaded', function() {
       const matchesCategory = selectedCategory === 'all' || courseCategory === selectedCategory;
       const matchesPlatform = selectedPlatform === 'all' || coursePlatform === selectedPlatform;
 
-      const isVisible = matchesSearch && matchesDifficulty && matchesCategory && matchesPlatform;
+      // Check completion filter (if progress tracker is loaded)
+      const matchesCompletion = window.matchesCompletionFilter ? window.matchesCompletionFilter(course) : true;
+
+      const isVisible = matchesSearch && matchesDifficulty && matchesCategory && matchesPlatform && matchesCompletion;
 
       // Show or hide course and all its associated elements
       courseElements.forEach(function(element) {
@@ -78,6 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
     updateCourseCount(visibleCount);
     updateCategoryHeaders();
   }
+
+  // Export filterCourses for use by progress tracker
+  window.filterCourses = filterCourses;
 
   function updateCategoryHeaders() {
     // Hide category headers (H2) if all courses in that category are hidden

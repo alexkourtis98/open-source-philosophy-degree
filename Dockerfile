@@ -31,8 +31,8 @@ RUN bundle install
 # Copy the rest of the site
 COPY . .
 
-# Expose port 4001
-EXPOSE 4001
+# Expose port 8342
+EXPOSE 8342
 
 # Run Jekyll server
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4001", "--livereload", "--force_polling"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "8342", "--livereload", "--force_polling"]

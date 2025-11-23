@@ -266,6 +266,45 @@ Welcome to our comprehensive catalog of free philosophy courses! Browse by categ
 
 ---
 
+### <span class="difficulty-badge intermediate">Intermediate</span> [Modern Political Thought — Hillsdale College](https://online.hillsdale.edu/courses/modern-political-thought)
+{: .course-item data-difficulty="intermediate" data-category="political" data-platform="hillsdale"}
+
+**Platform**: Hillsdale Free Online Courses
+**Duration**: 12 lectures
+**Focus**: Hobbes, Locke, Rousseau, Marx, and modern political theory
+
+**What You'll Learn**:
+- Understand the development of modern political philosophy
+- Examine social contract theories in depth
+- Analyze the relationship between liberty and authority
+- Study the philosophical foundations of modern government
+
+**Format**: Video lectures, readings, certificate available
+
+[**Enroll Now →**](https://online.hillsdale.edu/courses/modern-political-thought)
+
+---
+
+### <span class="difficulty-badge advanced">Advanced</span> [Democracy and its Critics — Yale University (Open Yale)](https://oyc.yale.edu/political-science/plsc-118)
+{: .course-item data-difficulty="advanced" data-category="political" data-platform="yale"}
+
+**Instructor**: Ian Shapiro
+**Platform**: Open Yale Courses
+**Duration**: Full semester, 24 lectures
+**Focus**: Democratic theory, critiques, comparative systems
+
+**What You'll Learn**:
+- Analyze major theories of democracy from ancient to modern
+- Examine criticisms of democratic governance
+- Compare democratic systems and institutions
+- Explore the tension between democracy and other values
+
+**Format**: Full lecture videos, complete transcripts, extensive reading list
+
+[**Access Course →**](https://oyc.yale.edu/political-science/plsc-118)
+
+---
+
 ## Philosophy of Mind & Science
 
 ### <span class="difficulty-badge intermediate">Intermediate</span> [Philosophy and the Science of Human Nature — Yale University (Open Yale)](https://oyc.yale.edu/philosophy/phil-181)
@@ -388,6 +427,228 @@ Welcome to our comprehensive catalog of free philosophy courses! Browse by categ
 
 ---
 
+### <span class="difficulty-badge intermediate">Intermediate</span> [Existentialism — University of Colorado Boulder (YouTube)](https://www.youtube.com/playlist?list=PLlR_n_Jf7rXLJYLJeRkC6JOZ2v8-PQEJb)
+{: .course-item data-difficulty="intermediate" data-category="history" data-platform="other"}
+
+**Instructor**: Michael Tooley
+**Platform**: YouTube (CU Boulder)
+**Duration**: Full semester, ~40 lectures
+**Focus**: Kierkegaard, Nietzsche, Heidegger, Sartre, Camus
+
+**What You'll Learn**:
+- Understand existentialist philosophy and its historical context
+- Examine concepts of authenticity, freedom, and meaning
+- Analyze major existentialist works in depth
+- Explore the relationship between existence and essence
+
+**Format**: Full lecture recordings from university course
+
+[**Watch Lectures →**](https://www.youtube.com/playlist?list=PLlR_n_Jf7rXLJYLJeRkC6JOZ2v8-PQEJb)
+
+---
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Medieval Philosophy — Loyola University Chicago (YouTube)](https://www.youtube.com/playlist?list=PLHgCLiu7NLPMy6VxW3V7GI3b9aVPM22zP)
+{: .course-item data-difficulty="intermediate" data-category="history" data-platform="other"}
+
+**Instructor**: Fr. John Jenkins, CSC
+**Platform**: YouTube
+**Duration**: Multiple lectures covering key figures and topics
+**Focus**: Augustine, Anselm, Aquinas, medieval scholasticism
+
+**What You'll Learn**:
+- Bridge between ancient and modern philosophy
+- Understand the synthesis of Greek philosophy and Christian theology
+- Examine arguments for God's existence
+- Study the problem of universals and metaphysics
+
+**Format**: Lecture series with detailed analysis
+
+[**Watch Lectures →**](https://www.youtube.com/playlist?list=PLHgCLiu7NLPMy6VxW3V7GI3b9aVPM22zP)
+
+---
+
+## Philosophy of Language & Logic (Advanced)
+
+### <span class="difficulty-badge advanced">Advanced</span> [Philosophy of Language — MIT OpenCourseWare](https://ocw.mit.edu/courses/24-251-introduction-to-philosophy-of-language-fall-2011/)
+{: .course-item data-difficulty="advanced" data-category="mind" data-platform="mit"}
+
+**Platform**: MIT OCW
+**Duration**: Self-paced (semester course)
+**Focus**: Meaning, reference, pragmatics, speech acts
+
+**What You'll Learn**:
+- Understand theories of meaning and reference
+- Examine the relationship between language and thought
+- Study speech act theory and pragmatics
+- Analyze philosophical problems in semantics
+
+**Format**: Complete syllabus, readings, lecture notes, assignments
+
+[**Access Course →**](https://ocw.mit.edu/courses/24-251-introduction-to-philosophy-of-language-fall-2011/)
+
+---
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Model Thinking — University of Michigan (Coursera)](https://www.coursera.org/learn/model-thinking)
+{: .course-item data-difficulty="intermediate" data-category="logic" data-platform="coursera"}
+
+**Instructor**: Scott E. Page
+**Platform**: Coursera
+**Duration**: 10 weeks, 3-5 hours/week
+**Focus**: Logical models, game theory, decision theory
+
+**What You'll Learn**:
+- Use models to improve thinking and decision-making
+- Understand game theory and strategic thinking
+- Apply logical frameworks to real-world problems
+- Analyze complex systems using formal models
+
+**Format**: Video lectures, quizzes, modeling exercises
+
+[**Enroll Now →**](https://www.coursera.org/learn/model-thinking)
+
+---
+
+## Philosophy of Religion
+
+### <span class="difficulty-badge beginner">Beginner</span> [Introduction to Philosophy of Religion — Yale University (YouTube)](https://www.youtube.com/playlist?list=PL3F6BC200B2930084)
+{: .course-item data-difficulty="beginner" data-category="general" data-platform="other"}
+
+**Platform**: YouTube (Yale Webcasts)
+**Duration**: Multiple lectures
+**Focus**: Arguments for God's existence, problem of evil, faith and reason
+
+**What You'll Learn**:
+- Examine classical arguments for God's existence (ontological, cosmological, teleological)
+- Analyze the problem of evil
+- Explore the relationship between faith and reason
+- Study religious experience and miracles
+
+**Format**: Lecture recordings
+
+[**Watch Lectures →**](https://www.youtube.com/playlist?list=PL3F6BC200B2930084)
+
+---
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Philosophy and Religion — MIT OpenCourseWare](https://ocw.mit.edu/courses/24-01-classics-of-western-philosophy-spring-2016/)
+{: .course-item data-difficulty="intermediate" data-category="general" data-platform="mit"}
+
+**Platform**: MIT OCW
+**Duration**: Self-paced
+**Focus**: Classic texts on religion from philosophical perspective
+
+**What You'll Learn**:
+- Engage with classical texts on religious philosophy
+- Examine arguments about the nature and existence of God
+- Understand the rationality of religious belief
+- Analyze the relationship between philosophy and theology
+
+**Format**: Readings, lecture notes, assignments
+
+[**Access Course →**](https://ocw.mit.edu/courses/24-01-classics-of-western-philosophy-spring-2016/)
+
+---
+
+## Aesthetics & Philosophy of Art
+
+### <span class="difficulty-badge beginner">Beginner</span> [Introduction to Aesthetics — Oxford University (Podcasts)](https://podcasts.ox.ac.uk/series/general-philosophy)
+{: .course-item data-difficulty="beginner" data-category="general" data-platform="other"}
+
+**Platform**: Oxford Podcasts
+**Duration**: Various lectures
+**Focus**: Beauty, art, aesthetic experience, creativity
+
+**What You'll Learn**:
+- Understand theories of beauty and aesthetic value
+- Examine what makes something art
+- Explore the philosophy of music, literature, and visual arts
+- Analyze aesthetic judgment and taste
+
+**Format**: Audio lectures and discussions
+
+[**Listen Now →**](https://podcasts.ox.ac.uk/series/general-philosophy)
+
+---
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Philosophy of Art — Saddleback College (YouTube)](https://www.youtube.com/playlist?list=PL7BF9194C79588819)
+{: .course-item data-difficulty="intermediate" data-category="general" data-platform="other"}
+
+**Platform**: YouTube
+**Duration**: Full semester course
+**Focus**: Nature of art, aesthetic experience, interpretation
+
+**What You'll Learn**:
+- Examine major theories of art
+- Understand aesthetic experience and judgment
+- Analyze the role of the artist and audience
+- Explore contemporary debates in aesthetics
+
+**Format**: Full course lectures
+
+[**Watch Lectures →**](https://www.youtube.com/playlist?list=PL7BF9194C79588819)
+
+---
+
+## Ethics (Advanced Topics)
+
+### <span class="difficulty-badge advanced">Advanced</span> [Moral Psychology — Yale University (YouTube)](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyVi1s81LAw2CL87pJh7Hzm)
+{: .course-item data-difficulty="advanced" data-category="ethics" data-platform="other"}
+
+**Platform**: YouTube
+**Duration**: Full semester
+**Focus**: Psychology of moral judgment, development, emotion
+
+**What You'll Learn**:
+- Examine empirical research on moral psychology
+- Understand moral development and moral emotions
+- Analyze the relationship between reason and emotion in ethics
+- Study contemporary debates in experimental philosophy
+
+**Format**: Lecture recordings with research discussions
+
+[**Watch Lectures →**](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyVi1s81LAw2CL87pJh7Hzm)
+
+---
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Environmental Ethics — University of North Carolina (Coursera)](https://www.coursera.org/learn/environmental-ethics)
+{: .course-item data-difficulty="intermediate" data-category="ethics" data-platform="coursera"}
+
+**Platform**: Coursera
+**Duration**: 4 weeks, 2-3 hours/week
+**Focus**: Environmental philosophy, climate ethics, sustainability
+
+**What You'll Learn**:
+- Examine our moral obligations to the environment
+- Analyze anthropocentrism vs. ecocentrism
+- Study climate change from ethical perspective
+- Explore sustainability and intergenerational justice
+
+**Format**: Video lectures, readings, discussions
+
+[**Enroll Now →**](https://www.coursera.org/learn/environmental-ethics)
+
+---
+
+## Social & Applied Philosophy
+
+### <span class="difficulty-badge intermediate">Intermediate</span> [Philosophy of Technology — TU Delft (edX)](https://www.edx.org/learn/philosophy/delft-university-of-technology-philosophy-of-technology)
+{: .course-item data-difficulty="intermediate" data-category="general" data-platform="edx"}
+
+**Platform**: edX
+**Duration**: 6 weeks, 3-5 hours/week
+**Focus**: Technology and society, ethics of AI, digital philosophy
+
+**What You'll Learn**:
+- Examine philosophical questions raised by technology
+- Understand the ethics of artificial intelligence
+- Analyze the impact of technology on human values
+- Study privacy, autonomy, and technological society
+
+**Format**: Video lectures, case studies, interactive content
+
+[**Enroll Now →**](https://www.edx.org/learn/philosophy/delft-university-of-technology-philosophy-of-technology)
+
+---
+
 ## General & Introductory
 
 ### <span class="difficulty-badge beginner">Beginner</span> [Introduction to Philosophy — King's College London (FutureLearn)](https://www.futurelearn.com/courses/introduction-to-philosophy)
@@ -453,4 +714,5 @@ Know a great free philosophy course we're missing? [Submit a suggestion](/contri
 
 </div>
 
+<script src="/assets/js/progress-tracker.js"></script>
 <script src="/assets/js/catalog-filter.js"></script>
